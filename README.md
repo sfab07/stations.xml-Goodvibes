@@ -5,10 +5,10 @@ Prise en charge de MPRIS2. En d'autre termes, sur votre casque bluetooth vous po
 
 Votre dossier de favoris  :
 
-Si Goodvibes a été installé avec le gestionnaire de paquets, le fichier se trouve à :
+Si Goodvibes a été installé avec le gestionnaire de paquets, le fichier est situé ici :
     ~/.local/share/goodvibes/stations.xml
 
-Si Goodvibes a été installé avec Flatpak, le fichier est à situé :
+Si Goodvibes a été installé avec Flatpak, le fichier est situé là :
     ~/.var/app/io.gitlab.Goodvibes/data/goodvibes/stations.xml
 
 ---------------------------
