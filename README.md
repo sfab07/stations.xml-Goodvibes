@@ -14,5 +14,5 @@ Votre dossier de favoris  :
 ---------------------------
 
 Conversion.py permet convertir bookmarks.xml (radiotray-lite) vers stations.xml (Goodvives)
-stations.sh permet de transféré 
+
 Transférer automatiquement soit le fichier stations1.sh (installé en .deb) ou le fichier stations2.sh (Flatpak) vers le dossier favoris. <en fonction de votre choix d'installation>
