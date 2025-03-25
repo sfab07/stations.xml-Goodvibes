@@ -1,0 +1,282 @@
+<Stations>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fip/fip.m3u8</uri>
+    <name>FIP</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fipgroove/fipgroove.m3u8</uri>
+    <name>FIP Groove</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fiphiphop/fiphiphop.m3u8</uri>
+    <name>FIP Hip-Hop</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fipjazz/fipjazz.m3u8</uri>
+    <name>FIP Jazz</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fipmetal/fipmetal.m3u8</uri>
+    <name>FIP Metal</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fipnouveautes/fipnouveautes.m3u8</uri>
+    <name>FIP Nouveautés</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fippop/fippop.m3u8</uri>
+    <name>FIP Pop</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fipreggae/fipreggae.m3u8</uri>
+    <name>FIP Reggae</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fiprock/fiprock.m3u8</uri>
+    <name>FIP Rock</name>
+  </Station>
+  <Station>
+    <uri>https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8</uri>
+    <name>FIP Sacré français !</name>
+  </Station>
+  <Station>
+    <uri>https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3</uri>
+    <name>Nova Classics</name>
+  </Station>
+  <Station>
+    <uri>https://nova-dance.ice.infomaniak.ch/nova-dance-128.mp3</uri>
+    <name>Nova Danse</name>
+  </Station>
+  <Station>
+    <uri>https://nova-odn.ice.infomaniak.ch/nova-odn-128.mp3</uri>
+    <name>Nova Hip-Hop</name>
+  </Station>
+  <Station>
+    <uri>https://nova-ln.ice.infomaniak.ch/nova-ln-128.mp3</uri>
+    <name>Nova la Nuit</name>
+  </Station>
+  <Station>
+    <uri>https://nova-sm.ice.infomaniak.ch/nova-sm-128.mp3</uri>
+    <name>Nova la Plage</name>
+  </Station>
+  <Station>
+    <uri>https://nova-nouvo.ice.infomaniak.ch/nova-nouvo-128.mp3</uri>
+    <name>Nova Nouvo</name>
+  </Station>
+  <Station>
+    <uri>https://nova-reggae.ice.infomaniak.ch/nova-reggae-128.mp3</uri>
+    <name>Nova Reggae</name>
+  </Station>
+  <Station>
+    <uri>https://nova-soul.ice.infomaniak.ch/nova-soul-128.mp3</uri>
+    <name>Nova Soul</name>
+  </Station>
+  <Station>
+    <uri>https://pbbradio.com:8443/pbb128</uri>
+    <name>Pedro Broadcasting Basement</name>
+  </Station>
+  <Station>
+    <uri>https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3</uri>
+    <name>Radio Meuh</name>
+  </Station>
+  <Station>
+    <uri>https://listen.radioking.com/radio/176026/stream/218008</uri>
+    <name>Rock Attack</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/beatblender130.pls</uri>
+    <name>SomaFM Beat Blender</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/brfm130.pls</uri>
+    <name>SomaFM Black Rock FM</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/bootliquor130.pls</uri>
+    <name>SomaFM Boot Liquor</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/bossa130.pls</uri>
+    <name>SomaFM Bossa Beyond</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/chillits130.pls</uri>
+    <name>SomaFM Chillits Radio</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/christmas130.pls</uri>
+    <name>SomaFM Christmas Lounge</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/xmasrocks130.pls</uri>
+    <name>SomaFM Christmas Rocks!</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/cliqhop130.pls</uri>
+    <name>SomaFM cliqhop idm</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/covers130.pls</uri>
+    <name>SomaFM Covers</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/deepspaceone130.pls</uri>
+    <name>SomaFM Deep Space One</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/defcon130.pls</uri>
+    <name>SomaFM DEF CON Radio</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/deptstore130.pls</uri>
+    <name>SomaFM Department Store Christmas</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/digitalis130.pls</uri>
+    <name>SomaFM Digitalis</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/doomed130.pls</uri>
+    <name>SomaFM Doomed</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/dronezone130.pls</uri>
+    <name>SomaFM Drone Zone</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/dubstep130.pls</uri>
+    <name>SomaFM Dub Step Beyond</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/fluid130.pls</uri>
+    <name>SomaFM Fluid</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/folkfwd130.pls</uri>
+    <name>SomaFM Folk Forward</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/groovesalad130.pls</uri>
+    <name>SomaFM Groove Salad</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/gsclassic130.pls</uri>
+    <name>SomaFM Groove Salad Classic</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/reggae130.pls</uri>
+    <name>SomaFM Heavyweight Reggae</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/illstreet130.pls</uri>
+    <name>SomaFM Illinois Street Lounge</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/indiepop130.pls</uri>
+    <name>SomaFM Indie Pop Rocks!</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/jollysoul130.pls</uri>
+    <name>SomaFM Jolly Ol&apos; Soul</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/seventies130.pls</uri>
+    <name>SomaFM Left Coast 70s</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/live130.pls</uri>
+    <name>SomaFM Live</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/lush130.pls</uri>
+    <name>SomaFM Lush</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/metal130.pls</uri>
+    <name>SomaFM Metal Detector</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/missioncontrol130.pls</uri>
+    <name>SomaFM Mission Control</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/n5md130.pls</uri>
+    <name>SomaFM n5MD Radio</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/poptron130.pls</uri>
+    <name>SomaFM PopTron</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/secretagent130.pls</uri>
+    <name>SomaFM Secret Agent</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/7soul130.pls</uri>
+    <name>SomaFM Seven Inch Soul</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/sf1033130.pls</uri>
+    <name>SomaFM SF 10-33</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/sfinsf130.pls</uri>
+    <name>SomaFM SF in SF</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/scanner130.pls</uri>
+    <name>SomaFM SF Police Scanner</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/sonicuniverse130.pls</uri>
+    <name>SomaFM Sonic Universe</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/spacestation130.pls</uri>
+    <name>SomaFM Space Station Soma</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/specials130.pls</uri>
+    <name>SomaFM Specials</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/suburbsofgoa130.pls</uri>
+    <name>SomaFM Suburbs of Goa</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/synphaera130.pls</uri>
+    <name>SomaFM Synphaera Radio</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/darkzone130.pls</uri>
+    <name>SomaFM The Dark Zone</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/insound130.pls</uri>
+    <name>SomaFM The In-Sound</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/thetrip130.pls</uri>
+    <name>SomaFM The Trip</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/thistle130.pls</uri>
+    <name>SomaFM ThistleRadio</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/tikitime130.pls</uri>
+    <name>SomaFM Tiki Time</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/u80s130.pls</uri>
+    <name>SomaFM Underground 80s</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/vaporwaves130.pls</uri>
+    <name>SomaFM Vaporwaves</name>
+  </Station>
+  <Station>
+    <uri>https://somafm.com/xmasinfrisko130.pls</uri>
+    <name>SomaFM Xmas in Frisko</name>
+  </Station>
+</Stations>
