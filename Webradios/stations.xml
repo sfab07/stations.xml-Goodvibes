@@ -1,0 +1,535 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/30001/aac_64.mp3</uri>
+    <name>NRJ</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59057/aac_64.mp3</uri>
+    <name>NRJ Hits 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30043/aac_64.mp3</uri>
+    <name>NRJ Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/57748/aac_64.mp3</uri>
+    <name>NRJ TIKTOK</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58909/aac_64.mp3</uri>
+    <name>NRJ TIKTOK VIRAL</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59075/aac_64.mp3</uri>
+    <name>NRJ Hits_Francais 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58938/aac_64.mp3</uri>
+    <name>NRJ HITS XXL</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59041/aac_64.mp3</uri>
+    <name>NRJ Dance XXL</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59092/aac_64.mp3</uri>
+    <name>NRJ Futurs Hits De L Ete 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59085/aac_64.mp3</uri>
+    <name>NRJ Les Hits De Mars</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59016/aac_64.mp3</uri>
+    <name>NRJ Best Of 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59025/aac_64.mp3</uri>
+    <name>NRJ best of dance 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59059/aac_64.mp3</uri>
+    <name>NRJ best of french 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59020/aac_64.mp3</uri>
+    <name>NRJ Best Of Latino 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58796/aac_64.mp3</uri>
+    <name>NRJ Hits 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59087/aac_64.mp3</uri>
+    <name>NRJ Futurs Hits Latino</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59042/aac_64.mp3</uri>
+    <name>NRJ Futurs Hits 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59074/aac_64.mp3</uri>
+    <name>NRJ Nouveaux Hits 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59068/aac_64.mp3</uri>
+    <name>NRJ Rap 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59049/aac_64.mp3</uri>
+    <name>NRJ Futurs Hits Dance 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59084/aac_64.mp3</uri>
+    <name>NRJ SUNNY HITS</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59088/aac_64.mp3</uri>
+    <name>NRJ Hits Pour Danser</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59026/aac_64.mp3</uri>
+    <name>NRJ Hits De L Hiver</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59078/aac_64.mp3</uri>
+    <name>NRJ Best Hits 2024 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56230/aac_64.mp3</uri>
+    <name>NRJ New Hits Friday</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58358/aac_64.mp3</uri>
+    <name>NRJ New Dance Friday</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58910/aac_64.mp3</uri>
+    <name>NRJ FUEGO LATINO</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58540/aac_64.mp3</uri>
+    <name>NRJ Top Hits 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59046/aac_64.mp3</uri>
+    <name>NRJ 15 Ans De Super Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58631/aac_64.mp3</uri>
+    <name>NRJ K Pop</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58766/aac_64.mp3</uri>
+    <name>NRJ LES HITS N1</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58865/aac_64.mp3</uri>
+    <name>NRJ Flashback</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58827/aac_64.mp3</uri>
+    <name>NRJ 10 Ans De Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30023/aac_64.mp3</uri>
+    <name>NRJ Nouveautes</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58460/aac_64.mp3</uri>
+    <name>NRJ Dj Bens</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58541/aac_64.mp3</uri>
+    <name>NRJ 10000 Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58683/aac_64.mp3</uri>
+    <name>NRJ 500 Hits Dance</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58596/aac_64.mp3</uri>
+    <name>NRJ 500 Hits De L Ete</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58936/aac_64.mp3</uri>
+    <name>NRJ SUMMER CHILL</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58747/aac_64.mp3</uri>
+    <name>NRJ POSITIVE HITS</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30013/aac_64.mp3</uri>
+    <name>NRJ Dance</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30077/aac_64.mp3</uri>
+    <name>NRJ Latino</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58116/aac_64.mp3</uri>
+    <name>NRJ Latino 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59070/aac_64.mp3</uri>
+    <name>NRJ Latino 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58467/aac_64.mp3</uri>
+    <name>NRJ Latino Classics</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58313/aac_64.mp3</uri>
+    <name>NRJ Hitlist</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/57084/aac_64.mp3</uri>
+    <name>NRJ Top 100 De La Decennie</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58337/aac_64.mp3</uri>
+    <name>NRJ Electro Chill</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31247/aac_64.mp3</uri>
+    <name>NRJ Fiesta</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/57770/aac_64.mp3</uri>
+    <name>NRJ Afro Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31217/aac_64.mp3</uri>
+    <name>Made In France</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59065/aac_64.mp3</uri>
+    <name>NRJ Dance 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30031/aac_64.mp3</uri>
+    <name>NRJ Ibiza</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30099/aac_64.mp3</uri>
+    <name>NRJ Urban Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58524/aac_64.mp3</uri>
+    <name>NRJ Rap 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/57762/aac_64.mp3</uri>
+    <name>NRJ C Est Marseille Bebe</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58685/aac_64.mp3</uri>
+    <name>NRJ Music Awards 2024</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31407/aac_64.mp3</uri>
+    <name>NRJ Eurohot 30</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58682/aac_64.mp3</uri>
+    <name>NRJ Classic Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55548/aac_64.mp3</uri>
+    <name>NRJ Hits 80</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55274/aac_64.mp3</uri>
+    <name>NRJ Hits 90</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55275/aac_64.mp3</uri>
+    <name>NRJ La Playlist 2000</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55535/aac_64.mp3</uri>
+    <name>NRJ La Playlist 2010</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58028/aac_64.mp3</uri>
+    <name>NRJ Hits 2023</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55127/aac_64.mp3</uri>
+    <name>NRJ Happy Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30063/aac_64.mp3</uri>
+    <name>NRJ Party</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56896/aac_64.mp3</uri>
+    <name>NRJ Disney Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55530/aac_64.mp3</uri>
+    <name>NRJ Chill</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31023/aac_64.mp3</uri>
+    <name>NRJ Reggaeton</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30075/aac_64.mp3</uri>
+    <name>NRJ Reggae</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30061/aac_64.mp3</uri>
+    <name>NRJ Rap US</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30059/aac_64.mp3</uri>
+    <name>NRJ Rap FR</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31081/aac_64.mp3</uri>
+    <name>NRJ Gangsta Rap</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30011/aac_64.mp3</uri>
+    <name>NRJ RnB</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30171/aac_64.mp3</uri>
+    <name>NRJ RnB FR</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56699/aac_64.mp3</uri>
+    <name>NRJ La Playlist 100 hits français</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31489/aac_64.mp3</uri>
+    <name>NRJ Pop Rnb Dance</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55656/aac_64.mp3</uri>
+    <name>NRJ Nouveautes Francaises</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59089/aac_64.mp3</uri>
+    <name>NRJ Nouveaux Hits Dance</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59090/aac_64.mp3</uri>
+    <name>NRJ Nouveaux Hits Francais</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30037/aac_64.mp3</uri>
+    <name>NRJ French Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30157/aac_64.mp3</uri>
+    <name>NRJ Acoustic Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31019/aac_64.mp3</uri>
+    <name>NRJ Hits Remix</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31073/aac_64.mp3</uri>
+    <name>NRJ Club Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31251/aac_64.mp3</uri>
+    <name>NRJ Best Hits Ever</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31005/aac_64.mp3</uri>
+    <name>NRJ No Repeat</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58042/aac_64.mp3</uri>
+    <name>NRJ La Playlist Extravadance</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31419/aac_64.mp3</uri>
+    <name>NRJ EDM</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31437/aac_64.mp3</uri>
+    <name>NRJ Deep</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31099/aac_64.mp3</uri>
+    <name>NRJ Dance 90</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58453/aac_64.mp3</uri>
+    <name>NRJ DANCE 2000</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55135/aac_64.mp3</uri>
+    <name>NRJ Electro</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30017/aac_64.mp3</uri>
+    <name>NRJ Clubbin </name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56708/aac_64.mp3</uri>
+    <name>NRJ Hardstyle</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30027/aac_64.mp3</uri>
+    <name>NRJ Extravadance</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56429/aac_64.mp3</uri>
+    <name>NRJ Techno Story</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31131/aac_64.mp3</uri>
+    <name>NRJ Dance Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31409/aac_64.mp3</uri>
+    <name>NRJ Latino Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55210/aac_64.mp3</uri>
+    <name>NRJ Fiesta Latina</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31523/aac_64.mp3</uri>
+    <name>NRJ Kizomba</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30085/aac_64.mp3</uri>
+    <name>NRJ Zouk</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56702/aac_64.mp3</uri>
+    <name>NRJ Rap</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/57451/aac_64.mp3</uri>
+    <name>NRJ Rap 2000</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30133/aac_64.mp3</uri>
+    <name>NRJ Rai</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31079/aac_64.mp3</uri>
+    <name>NRJ Oriental</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31555/aac_64.mp3</uri>
+    <name>NRJ Nouveautes Rap Fr</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31095/aac_64.mp3</uri>
+    <name>NRJ Classic RnB</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31035/aac_64.mp3</uri>
+    <name>NRJ Funky</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31559/aac_64.mp3</uri>
+    <name>NRJ Hip Hop Rnb Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31093/aac_64.mp3</uri>
+    <name>NRJ Classic Rap US</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55189/aac_64.mp3</uri>
+    <name>NRJ Classic Rap FR</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30055/aac_64.mp3</uri>
+    <name>NRJ Rock</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56720/aac_64.mp3</uri>
+    <name>NRJ Pop Rock</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30053/aac_64.mp3</uri>
+    <name>NRJ Pop</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31097/aac_64.mp3</uri>
+    <name>NRJ Classic Rock</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30079/aac_64.mp3</uri>
+    <name>NRJ Metal</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/56808/aac_64.mp3</uri>
+    <name>NRJ Electro Fitness</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/57904/aac_64.mp3</uri>
+    <name>NRJ Sport Motivation</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55513/aac_64.mp3</uri>
+    <name>NRJ Pour Le Sport</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30057/aac_64.mp3</uri>
+    <name>NRJ Running Hits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30049/aac_64.mp3</uri>
+    <name>NRJ Lounge</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30033/aac_64.mp3</uri>
+    <name>NRJ At Work</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31011/aac_64.mp3</uri>
+    <name>NRJ At Home</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/31161/aac_64.mp3</uri>
+    <name>NRJ Relax</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30081/aac_64.mp3</uri>
+    <name>NRJ Love</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30103/aac_64.mp3</uri>
+    <name>NRJ MANU LE 6 10</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59024/aac_64.mp3</uri>
+    <name>NRJ Linkin Park</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/31187/aac_64.mp3</uri>
+    <name>NRJ Taylor Swift</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/58951/aac_64.mp3</uri>
+    <name>NRJ LadyGaga</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/31053/aac_64.mp3</uri>
+    <name>NRJ David Guetta</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/31297/aac_64.mp3</uri>
+    <name>NRJ Gims</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/31495/aac_64.mp3</uri>
+    <name>NRJ Jul</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/56365/aac_64.mp3</uri>
+    <name>NRJ Bts</name>
+  </Station>
+</Stations>
