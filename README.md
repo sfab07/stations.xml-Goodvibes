@@ -13,6 +13,6 @@ Si Goodvibes a été installé avec Flatpak, le fichier est situé là :
 
 ---------------------------
 
-Conversion.py permet de convertir bookmarks.xml (radiotray-lite) vers stations.xml (Goodvives)
+Conversion.py permet de convertir bookmarks.xml (radiotray-lite) vers stations.xml (Goodvibes)
 
 Transférer automatiquement soit le fichier stations1.sh (installé en .deb) ou le fichier stations2.sh (Flatpak) vers le dossier favoris. <en fonction de votre choix d'installation>
