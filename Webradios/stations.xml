@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3</uri>
+    <name>Voltage</name>
+  </Station>
+  <Station>
+    <uri>http://voltage2000.ice.infomaniak.ch/voltage2000-128.mp3</uri>
+    <name>Voltage 2000</name>
+  </Station>
+  <Station>
+    <uri>http://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3</uri>
+    <name>Voltage 80s</name>
+  </Station>
+  <Station>
+    <uri>http://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3</uri>
+    <name>Voltage 90s</name>
+  </Station>
+  <Station>
+    <uri>http://voltagework.ice.infomaniak.ch/voltagework-128.mp3</uri>
+    <name>Voltage work</name>
+  </Station>
+  <Station>
+    <uri>http://voltageclub.ice.infomaniak.ch/voltageclub-128.mp3</uri>
+    <name>Voltage club</name>
+  </Station>
+  <Station>
+    <uri>http://voltagelounge.ice.infomaniak.ch/voltagelounge-128.mp3</uri>
+    <name>Voltage lounge</name>
+  </Station>
+  <Station>
+    <uri>https://voltageenfrancais.ice.infomaniak.ch/voltageenfrancais-128.mp3</uri>
+    <name>Voltage en Francais</name>
+  </Station>
+  <Station>
+    <uri>http://voltageclub.ice.infomaniak.ch/voltageclub-128.mp3</uri>
+    <name>Voltage club</name>
+  </Station>
+  <Station>
+    <uri>http://voltagelove.ice.infomaniak.ch/voltagelove-128.mp3</uri>
+    <name>Voltage Love</name>
+  </Station>
+</Stations>
