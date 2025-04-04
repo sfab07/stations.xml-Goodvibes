@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz2/fr/30401/aac_64.mp3</uri>
+    <name>RC</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30411/aac_64.mp3</uri>
+    <name>RC Blagues</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30413/aac_64.mp3</uri>
+    <name>RC Canulars</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30421/aac_64.mp3</uri>
+    <name>RC Collectors</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55601/aac_64.mp3</uri>
+    <name>RC Duos</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/30427/aac_64.mp3</uri>
+    <name>RC Elie Semoun</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59099/aac_64.mp3</uri>
+    <name>RC En avril 2025</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55514/aac_64.mp3?</uri>
+    <name>RC Humours du sud</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55818/aac_64.mp3</uri>
+    <name>RC Nouveautés</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30405/aac_64.mp3</uri>
+    <name>RC Nouvelle Generation</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/55576/aac_64.mp3</uri>
+    <name>RC One Woman Show</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30443/aac_64.mp3</uri>
+    <name>RC Open du Rire</name>
+  </Station>
+  <Station>
+    <uri> https://scdn.nrjaudio.fm/adwz1/fr/30407/aac_64.mp3</uri>
+    <name>RC Sketches</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30417/aac_64.mp3</uri>
+    <name>RC Stand Up</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58755/aac_64.mp3</uri>
+    <name>RC Vos stars</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/30409/aac_64.mp3</uri>
+    <name>RC 100% live</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/58981/aac_64.mp3</uri>
+    <name>RC Les interdits</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/adwz1/fr/59096/aac_64.mp3</uri>
+    <name>RC 3 ans de rire</name>
+  </Station>
+</Stations>
