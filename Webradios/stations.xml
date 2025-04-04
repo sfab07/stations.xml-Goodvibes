@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbalsace-midfi.mp3</uri>
+    <name>France Bleu Alsace</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbarmorique-midfi.mp3</uri>
+    <name>France Bleu Armorique</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbauxerre-midfi.mp3</uri>
+    <name>France Bleu Auxerre</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbazur-midfi.mp3</uri>
+    <name>France Bleu Azur</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3</uri>
+    <name>France Bleu Basse-Normandie</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbbearn-midfi.mp3</uri>
+    <name>France Bleu Béarn</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbbelfort-midfi.mp3</uri>
+    <name>France Bleu Belfort</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbberry-midfi.mp3</uri>
+    <name>France Bleu Berry</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbbesancon-midfi.mp3</uri>
+    <name>France Bleu Besançon</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbbourgogne-midfi.mp3</uri>
+    <name>France Bleu Bourgogne</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3</uri>
+    <name>France Bleu Breiz Izel</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbchampagne-midfi.mp3</uri>
+    <name>France Bleu Champagne</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbcotentin-midfi.mp3</uri>
+    <name>France Bleu Cotentin</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbcreuse-midfi.mp3</uri>
+    <name>France Bleu Creuse</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbdromeardeche-midfi.mp3</uri>
+    <name>France Bleu Drôme Ardèche</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/Fbelsass-midfi.mp3</uri>
+    <name>France Bleu Elsass</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbgardlozere-midfi.mp3</uri>
+    <name>France Bleu Gard Lozère</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbgascogne-midfi.mp3</uri>
+    <name>France Bleu Gascogne</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbgironde-midfi.mp3</uri>
+    <name>France Bleu Gironde</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3</uri>
+    <name>France Bleu Haute Normandie</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbherault-midfi.mp3</uri>
+    <name>France Bleu Herault</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fb1071-midfi.mp3</uri>
+    <name>France Bleu 107.1</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbisere-midfi.mp3</uri>
+    <name>France Bleu Isère</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fblarochelle-midfi.mp3</uri>
+    <name>France Bleu La Rochelle</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fblimousin-midfi.mp3</uri>
+    <name>France Bleu Limousin</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbloireocean-midfi.mp3</uri>
+    <name>France Bleu Loire Océan</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fblorrainenord-midfi.mp3</uri>
+    <name>France Bleu Lorraine Nord</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbmaine-midfi.mp3</uri>
+    <name>France Bleu Maine</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbmayenne-midfi.mp3</uri>
+    <name>France Bleu Mayenne</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbnord-midfi.mp3</uri>
+    <name>France Bleu Nord</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fborleans-midfi.mp3</uri>
+    <name>France Bleu Orléans</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3</uri>
+    <name>France Bleu Pays Basque</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3</uri>
+    <name>France Bleu Pays d'Auvergne</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3</uri>
+    <name>France Bleu Pays de Savoie</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbperigord-midfi.mp3</uri>
+    <name>France Bleu Périgord</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbpicardie-midfi.mp3</uri>
+    <name>France Bleu Picardie</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbpoitou-midfi.mp3</uri>
+    <name>France Bleu Poitou</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbprovence-midfi.mp3</uri>
+    <name>France Bleu Provence</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3</uri>
+    <name>France Bleu RCFM</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbroussillon-midfi.mp3</uri>
+    <name>France Bleu Roussillon</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbstetienne-midfi.mp3</uri>
+    <name>France Bleu Saint Etienne Loire</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3</uri>
+    <name>France Bleu Sud Lorraine</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbtoulouse-midfi.mp3</uri>
+    <name>France Bleu Toulouse</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbtouraine-midfi.mp3</uri>
+    <name>France Bleu Touraine</name>
+  </Station>
+  <Station>
+    <uri>http://direct.francebleu.fr/live/fbvaucluse-midfi.mp3</uri>
+    <name>France Bleu Vaucluse</name>
+  </Station>
+</Stations>
