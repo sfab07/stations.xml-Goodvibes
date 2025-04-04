@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>https://ouifm.ice.infomaniak.ch/ouifm-high.mp3</uri>
+    <name>Ouï Fm</name>
+  </Station>
+  <Station>
+    <uri>https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.mp3</uri>
+    <name>Ouï Top week</name>
+  </Station>
+  <Station>
+    <uri>http://hd.stream.frequence3.net/frequence3-256.mp3</uri>
+    <name>Fréquence 3</name>
+  </Station>
+  <Station>
+    <uri>http://mp3.magic-radio.net/</uri>
+    <name>Magic Radio</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/30601/aac_64.mp3</uri>
+    <name>Nostalgie</name>
+  </Station>
+  <Station>
+    <uri>https://stream.chantefrance.com/Chante_France.aac</uri>
+    <name>Chante France</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/30401/aac_64.mp3</uri>
+    <name>Rire et chansons</name>
+  </Station>
+  <Station>
+    <uri>https://scdn.nrjaudio.fm/audio1/fr/30427/aac_64.mp3</uri>
+    <name>RC Semoun</name>
+  </Station>
+  <Station>
+    <uri>http://radiofg.impek.com/fg</uri>
+    <name>FG</name>
+  </Station>
+  <Station>
+    <uri>https://radio7.pro-fhi.net/radio/9006/hits1hd</uri>
+    <name>Hits1</name>
+  </Station>
+  <Station>
+    <uri>https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3</uri>
+    <name>Latina fiesta</name>
+  </Station>
+  <Station>
+    <uri>http://direct.mouv.fr/live/mouv-midfi.mp3</uri>
+    <name>Le Mouv</name>
+  </Station>
+</Stations>
