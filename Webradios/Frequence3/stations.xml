@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://frequence3.net-radio.fr/frequence3dance.mp3</uri>
+    <name>Fréquence 3 Dance</name>
+  </Station>
+  <Station>
+    <uri>http://frequence3.net-radio.fr/frequence3gold.mp3</uri>
+    <name>Fréquence 3 Gold</name>
+  </Station>
+  <Station>
+    <uri>http://frequence3.net-radio.fr/frequence3urban-128.mp3</uri>
+    <name>Fréquence 3 Urban</name>
+  </Station>
+  <Station>
+    <uri>http://frequence3.net-radio.fr/frequence3world.mp3</uri>
+    <name>Fréquence 3 World</name>
+  </Station>
+</Stations>
