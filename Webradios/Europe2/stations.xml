@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://europe2.lmn.fm/europe2.mp3</uri>
+    <name>Europe 2</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr9.mp3</uri>
+    <name>Europe 2 - 100% Français</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr12.mp3</uri>
+    <name>Europe 2 - 90s</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr3.mp3</uri>
+    <name>Europe 2 Acoustic</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr11.mp3</uri>
+    <name>Europe 2 Cardio</name>
+  </Station>
+  <Station>
+    <uri>http://europe2.lmn.fm/vr-wr2.mp3</uri>
+    <name>Europe 2 Classics</name>
+  </Station>
+  <Station>
+    <uri>http://europe2.lmn.fm/vr-wr5.mp3</uri>
+    <name>Europe 2 Friday Rock</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr14.mp3</uri>
+    <name>Europe 2 Girl Power</name>
+  </Station>
+  <Station>
+    <uri>http://europe2.lmn.fm/vr-wr4.mp3</uri>
+    <name>Europe 2 Hits</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr7.mp3</uri>
+    <name>Europe 2 Live </name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr13.mp3</uri>
+    <name>Europe 2 Millenium</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr1.mp3</uri>
+    <name>Europe 2 Mix</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr11.mp3</uri>
+    <name>Europe 2 New</name>
+  </Station>
+  <Station>
+    <uri>http://europe2.lmn.fm/vr-wr2.mp3</uri>
+    <name>Europe 2 Classics</name>
+  </Station>
+  <Station>
+    <uri>http://europe2.lmn.fm/vr-wr8.mp3</uri>
+    <name>Europe 2 Nouvelle Scène</name>
+  </Station>
+  <Station>
+    <uri>https://europe2.lmn.fm/vr-wr15.mp3</uri>
+    <name>Europe 2 Pop Rock</name>
+  </Station>
+  <Station>
+    <uri>http://europe2.lmn.fm/vr-wr10.mp3</uri>
+    <name>Europe 2 Slow</name>
+  </Station>
+</Stations>
