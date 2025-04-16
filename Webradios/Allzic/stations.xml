@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://allzic29.ice.infomaniak.ch/allzic29.mp3</uri>
+    <name>AllZic 50</name>
+  </Station>
+  <Station>
+    <uri>http://allzic50.ice.infomaniak.ch/allzic50.mp3</uri>
+    <name>AllZic 70</name>
+  </Station>
+  <Station>
+    <uri>http://allzic08.ice.infomaniak.ch/allzic08.mp3</uri>
+    <name>AllZic 80</name>
+  </Station>
+  <Station>
+    <uri>http://allzic24.ice.infomaniak.ch/allzic24.mp3</uri>
+    <name>AllZic 90</name>
+  </Station>
+  <Station>
+    <uri>http://allzic49.ice.infomaniak.ch/allzic51.mp3</uri>
+    <name>AllZic Africa</name>
+  </Station>
+  <Station>
+    <uri>http://allzic49.ice.infomaniak.ch/allzic49.mp3</uri>
+    <name>AllZic Annee 2000</name>
+  </Station>
+  <Station>
+    <uri>http://allzic04.ice.infomaniak.ch/allzic04.mp3</uri>
+    <name>AllZic Black Music</name>
+  </Station>
+  <Station>
+    <uri>http://allzic09.ice.infomaniak.ch/allzic09.mp3</uri>
+    <name>AllZic Blues</name>
+  </Station>
+  <Station>
+    <uri>http://allzic19.ice.infomaniak.ch/allzic19.mp3</uri>
+    <name>AllZic Brazil</name>
+  </Station>
+  <Station>
+    <uri>http://allzic53.ice.infomaniak.ch/allzic53.mp3</uri>
+    <name>AllZic Chill Out</name>
+  </Station>
+  <Station>
+    <uri>http://allzic06.ice.infomaniak.ch/allzic06.mp3</uri>
+    <name>AllZic Classic</name>
+  </Station>
+  <Station>
+    <uri>http://allzic47.ice.infomaniak.ch/allzic47.mp3</uri>
+    <name>AllZic Classic Piano</name>
+  </Station>
+  <Station>
+    <uri>http://allzic48.ice.infomaniak.ch/allzic48.mp3</uri>
+    <name>AllZic Classic Violon</name>
+  </Station>
+  <Station>
+    <uri>http://allzic46.ice.infomaniak.ch/allzic46.mp3</uri>
+    <name>AllZic Comedie Musicale</name>
+  </Station>
+  <Station>
+    <uri>http://allzic05.ice.infomaniak.ch/allzic05.mp3</uri>
+    <name>AllZic Comptines</name>
+  </Station>
+  <Station>
+    <uri>http://allzic32.ice.infomaniak.ch/allzic32.mp3</uri>
+    <name>AllZic Country</name>
+  </Station>
+  <Station>
+    <uri>http://allzic07.ice.infomaniak.ch/allzic07.mp3</uri>
+    <name>AllZic Dancefloor</name>
+  </Station>
+  <Station>
+    <uri>http://allzic31.ice.infomaniak.ch/allzic31.mp3</uri>
+    <name>AllZic Deep Disco</name>
+  </Station>
+  <Station>
+    <uri>http://allzic36.ice.infomaniak.ch/allzic36.mp3</uri>
+    <name>AllZic Disco</name>
+  </Station>
+  <Station>
+    <uri>http://allzic52.ice.infomaniak.ch/allzic52.mp3</uri>
+    <name>AllZic Disney</name>
+  </Station>
+  <Station>
+    <uri>http://allzic57.ice.infomaniak.ch/allzic57.mp3</uri>
+    <name>AllZic Electro chillout</name>
+  </Station>
+  <Station>
+    <uri>http://allzic14.ice.infomaniak.ch/allzic14.mp3</uri>
+    <name>AllZic Enfant 0-4 ans</name>
+  </Station>
+  <Station>
+    <uri>http://allzic15.ice.infomaniak.ch/allzic15.mp3</uri>
+    <name>AllZic Enfant 4-7 ans</name>
+  </Station>
+  <Station>
+    <uri>http://allzic16.ice.infomaniak.ch/allzic16.mp3</uri>
+    <name>AllZic Enfant 7-12 ans</name>
+  </Station>
+  <Station>
+    <uri>http://allzic12.ice.infomaniak.ch/allzic12.mp3</uri>
+    <name>AllZic Enfoirés</name>
+  </Station>
+  <Station>
+    <uri>http://allzic26.ice.infomaniak.ch/allzic26.mp3</uri>
+    <name>AllZic faire la fête</name>
+  </Station>
+  <Station>
+    <uri>http://allzic13.ice.infomaniak.ch/allzic13.mp3</uri>
+    <name>AllZic Fitness</name>
+  </Station>
+  <Station>
+    <uri>http://allzic08.ice.infomaniak.ch/allzic11.mp3</uri>
+    <name>AllZic Funk</name>
+  </Station>
+  <Station>
+    <uri>http://allzic30.ice.infomaniak.ch/allzic30.mp3</uri>
+    <name>AllZic Gold Francais</name>
+  </Station>
+  <Station>
+    <uri>http://allzic27.ice.infomaniak.ch/allzic27.mp3</uri>
+    <name>AllZic Gothique</name>
+  </Station>
+  <Station>
+    <uri>http://allzic18.ice.infomaniak.ch/allzic18.mp3</uri>
+    <name>AllZic Hard et Heavy</name>
+  </Station>
+  <Station>
+    <uri>http://allzic25.ice.infomaniak.ch/allzic25.mp3</uri>
+    <name>AllZic Humour</name>
+  </Station>
+  <Station>
+    <uri>http://allzic20.ice.infomaniak.ch/allzic20.mp3</uri>
+    <name>AllZic Inter Active</name>
+  </Station>
+  <Station>
+    <uri>http://allzic35.ice.infomaniak.ch/allzic35.mp3</uri>
+    <name>AllZic Italia</name>
+  </Station>
+  <Station>
+    <uri>http://allzic56.ice.infomaniak.ch/allzic56.mp3</uri>
+    <name>AllZic Johnny</name>
+  </Station>
+  <Station>
+    <uri>http://allzic03.ice.infomaniak.ch/allzic03.mp3</uri>
+    <name>AllZic Jazz Lounge</name>
+  </Station>
+  <Station>
+    <uri>http://allzic39.ice.infomaniak.ch/allzic39.mp3</uri>
+    <name>AllZic Latino</name>
+  </Station>
+  <Station>
+    <uri>http://allzic44.ice.infomaniak.ch/allzic44.mp3</uri>
+    <name>AllZic Live francais</name>
+  </Station>
+  <Station>
+    <uri>http://allzic45.ice.infomaniak.ch/allzic45.mp3</uri>
+    <name>AllZic Live gold</name>
+  </Station>
+  <Station>
+    <uri>http://allzic21.ice.infomaniak.ch/allzic21.mp3</uri>
+    <name>AllZic Lounge</name>
+  </Station>
+  <Station>
+    <uri>http://allzic34.ice.infomaniak.ch/allzic34.mp3</uri>
+    <name>AllZic Love Song</name>
+  </Station>
+  <Station>
+    <uri>http://allzic33.ice.infomaniak.ch/allzic33.mp3</uri>
+    <name>AllZic Musique Orientale</name>
+  </Station>
+  <Station>
+    <uri>http://allzic38.ice.infomaniak.ch/allzic38.mp3</uri>
+    <name>AllZic National 7</name>
+  </Station>
+  <Station>
+    <uri>http://allzic42.ice.infomaniak.ch/allzic42.mp3</uri>
+    <name>AllZic Noel</name>
+  </Station>
+  <Station>
+    <uri>http://allzic23.ice.infomaniak.ch/allzic23.mp3</uri>
+    <name>AllZic Nouveautes francaises</name>
+  </Station>
+  <Station>
+    <uri>http://allzic54.ice.infomaniak.ch/allzic54.mp3</uri>
+    <name>AllZic Pop queens</name>
+  </Station>
+  <Station>
+    <uri>http://allzic08.ice.infomaniak.ch/allzic10.mp3</uri>
+    <name>AllZic R and B</name>
+  </Station>
+  <Station>
+    <uri>http://allzic02.ice.infomaniak.ch/allzic02.mp3</uri>
+    <name>AllZic Rap FR</name>
+  </Station>
+  <Station>
+    <uri>http://allzic01.ice.infomaniak.ch/allzic01.mp3</uri>
+    <name>AllZic Rap US</name>
+  </Station>
+  <Station>
+    <uri>http://allzic43.ice.infomaniak.ch/allzic43.mp3</uri>
+    <name>AllZic Reggae</name>
+  </Station>
+  <Station>
+    <uri>http://allzic17.ice.infomaniak.ch/allzic17.mp3</uri>
+    <name>AllZic Rock FM</name>
+  </Station>
+  <Station>
+    <uri>http://allzic37.ice.infomaniak.ch/allzic37.mp3</uri>
+    <name>AllZic Route 66</name>
+  </Station>
+  <Station>
+    <uri>http://allzic22.ice.infomaniak.ch/allzic22.mp3</uri>
+    <name>AllZic Top 10</name>
+  </Station>
+  <Station>
+    <uri>http://allzic41.ice.infomaniak.ch/allzic41.mp3</uri>
+    <name>AllZic Top 20</name>
+  </Station>
+  <Station>
+    <uri>http://allzic55.ice.infomaniak.ch/allzic55.mp3</uri>
+    <name>AllZic Top 50</name>
+  </Station>
+  <Station>
+    <uri>http://allzic28.ice.infomaniak.ch/allzic28.mp3</uri>
+    <name>AllZic Zouk</name>
+  </Station>
+  <Station>
+    <uri>http://allzic20.ice.infomaniak.ch/allzic20.mp3</uri>
+    <name>AllZic Zen</name>
+  </Station>
+</Stations>
