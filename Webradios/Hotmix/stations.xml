@@ -1,0 +1,431 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-2000-en-mp3</uri>
+    <name>hotmix 2000</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-2010-en-mp3</uri>
+    <name>hotmix 2010</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-80-en-mp3</uri>
+    <name>hotmix 80</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-90-en-mp3</uri>
+    <name>hotmix 90</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-acoustic-en-mp3</uri>
+    <name>hotmix acoustic</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-afro-en-mp3</uri>
+    <name>hotmix afro</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-baby-en-mp3</uri>
+    <name>hotmix baby</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-balear-vibes-en-mp3</uri>
+    <name>hotmix balear vibes</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-bbq-en-mp3</uri>
+    <name>hotmix bbq</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-blues-en-mp3</uri>
+    <name>hotmix blues</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-china-en-mp3</uri>
+    <name>hotmix china</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-christmas-en-mp3</uri>
+    <name>hotmix christmas</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-classical-en-mp3</uri>
+    <name>hotmix classical</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-classic-house-en-mp3</uri>
+    <name>hotmix classic house</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-classic-rock-en-mp3</uri>
+    <name>hotmix classic rock</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-dance-en-mp3</uri>
+    <name>hotmix dance</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-frenchy-fr-mp3</uri>
+    <name>hotmix frenchy fr</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-funk-en-mp3</uri>
+    <name>hotmix funk</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-gaming-en-mp3</uri>
+    <name>hotmix gaming</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-gold-en-mp3</uri>
+    <name>hotmix gold</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-greece-en-mp3</uri>
+    <name>hotmix greece</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-happy-en-mp3</uri>
+    <name>hotmix happy</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-hiphop-us-en-mp3</uri>
+    <name>hotmix hiphop us</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-hits-en-mp3</uri>
+    <name>hotmix hits</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-india-en-mp3</uri>
+    <name>hotmix india</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-indie-en-mp3</uri>
+    <name>hotmix indie</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-italia-en-mp3</uri>
+    <name>hotmix italia</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-japan-en-mp3</uri>
+    <name>hotmix japan</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-k-pop-en-mp3</uri>
+    <name>hotmix k-pop</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-latino-en-mp3</uri>
+    <name>hotmix latino</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-lounge-en-mp3</uri>
+    <name>hotmix lounge</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-love-en-mp3</uri>
+    <name>hotmix love</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-medina-en-mp3</uri>
+    <name>hotmix medina</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-metal-en-mp3</uri>
+    <name>hotmix metal</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-motown-en-mp3</uri>
+    <name>hotmix motown</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-movies-en-mp3</uri>
+    <name>hotmix movies</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-new-en-mp3</uri>
+    <name>hotmix new</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-nu_disco-en-mp3</uri>
+    <name>hotmix nu disco</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-ocean-en-mp3</uri>
+    <name>hotmix ocean</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-rap-en-mp3</uri>
+    <name>hotmix rap</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-rap-fr-mp3</uri>
+    <name>rap fr</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-reggae-en-mp3</uri>
+    <name>reggae en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-rnb-en-mp3</uri>
+    <name>rnb en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-rock-en-mp3</uri>
+    <name>rock en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-salsa-en-mp3</uri>
+    <name>salsa en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-spain-en-mp3</uri>
+    <name>spain en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-sunny-en-mp3</uri>
+    <name>sunny en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.com/hotmix-zen-en-mp3</uri>
+    <name>zen en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-blues-en-mp3</uri>
+    <name>blues en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-china-en-mp3</uri>
+    <name>china en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-christmas-en-mp3</uri>
+    <name>christmas en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-classical-en-mp3</uri>
+    <name>classical en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-classic-house-en-mp3</uri>
+    <name>classic house en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-classic-rap-en-mp3</uri>
+    <name>classic rap en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-classic-rock-en-mp3</uri>
+    <name>classic rock en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-classic-soul-en-mp3</uri>
+    <name>classic soul en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-cocktail-groove-en-mp3</uri>
+    <name>cocktail groove en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-cocktail-jazz-en-mp3</uri>
+    <name>cocktail jazz en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-cocktail-trendy-en-mp3</uri>
+    <name>cocktail trendy en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-country-hits-en-mp3</uri>
+    <name>country hits en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-dance-en-mp3</uri>
+    <name>dance en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-deep-en-mp3</uri>
+    <name>deep en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-dinner-groove-en-mp3</uri>
+    <name>dinner groove en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-dinner-lounge-en-mp3</uri>
+    <name>dinner lounge en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-disco-fever-en-mp3</uri>
+    <name>disco fever en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-disco-funk-en-mp3</uri>
+    <name>disco funk en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-electro-dance-en-mp3</uri>
+    <name>electro dance en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-focus-en-mp3</uri>
+    <name>focus en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-frenchy-en-mp3</uri>
+    <name>frenchy en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-funk-en-mp3</uri>
+    <name>funk en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-gaming-en-mp3</uri>
+    <name>gaming en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-gold-en-mp3</uri>
+    <name>gold en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-greece-en-mp3</uri>
+    <name>greece en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-happy-en-mp3</uri>
+    <name>happy en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-hard-rock-en-mp3</uri>
+    <name>hard rock en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-hits-en-mp3</uri>
+    <name>hits en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-india-en-mp3</uri>
+    <name>india en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-indie-en-mp3</uri>
+    <name>indie en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-italia-en-mp3</uri>
+    <name>italia en</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-japan-en-mp3</uri>
+    <name>hotmix japan</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-jazz-en-mp3</uri>
+    <name>hotmix jazz</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-k-pop-en-mp3</uri>
+    <name>hotmix k-pop</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-latino-en-mp3</uri>
+    <name>hotmix latino</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-lofi-en-mp3</uri>
+    <name>hotmix lofi</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-lounge-en-mp3</uri>
+    <name>hotmix lounge</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-love-en-mp3</uri>
+    <name>hotmix love</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-medina-en-mp3</uri>
+    <name>hotmix medina</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-metal-en-mp3</uri>
+    <name>hotmix metal</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-motown-en-mp3</uri>
+    <name>hotmix motown</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-movies-en-mp3</uri>
+    <name>hotmix movies</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-new-en-mp3</uri>
+    <name>hotmix new</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-nu_disco-en-mp3</uri>
+    <name>hotmix nu disco</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-ocean-en-mp3</uri>
+    <name>hotmix ocean</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-on-the-road-en-mp3</uri>
+    <name>hotmix on-the-road</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-piano-bar-en-mp3</uri>
+    <name>hotmix piano-bar</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-platinium-en-mp3</uri>
+    <name>hotmix platinium</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-pop-rock-en-mp3</uri>
+    <name>hotmix pop-rock</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-reggae-en-mp3</uri>
+    <name>hotmix reggae</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-rnb-en-mp3</uri>
+    <name>hotmix rnb</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-rock-en-mp3</uri>
+    <name>hotmix rock</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-salsa-en-mp3</uri>
+    <name>hotmix salsa</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-spain-en-mp3</uri>
+    <name>hotmix spain</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-sport-hits-en-mp3</uri>
+    <name>hotmix sport hits</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-sport-plus-en-mp3</uri>
+    <name>hotmix sport plus</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-sunny-en-mp3</uri>
+    <name>hotmix sunny</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-tictoc-en-mp3</uri>
+    <name>hotmix tictoc</name>
+  </Station>
+  <Station>
+    <uri>https://streaming.hotmixradio.fr/hotmix-zen-en-mp3</uri>
+    <name>hotmix zen</name>
+  </Station>
+</Stations>
