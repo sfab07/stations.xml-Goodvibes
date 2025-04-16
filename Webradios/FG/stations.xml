@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>https://n36a-eu.rcs.revma.com/3xvpxq50e2uvv</uri>
+    <name>FG apéro</name>
+  </Station>
+  <Station>
+    <uri>https://stream.rcs.revma.com/2v1zz979n98uv</uri>
+    <name>FG at work</name>
+  </Station>
+  <Station>
+    <uri>https://n35a-eu.rcs.revma.com/02s8zcv9898uv</uri>
+    <name>FG avant garde</name>
+  </Station>
+  <Station>
+    <uri>https://n23a-eu.rcs.revma.com/wknqhm4yuchvv</uri>
+    <name>FG Dj radio</name>
+  </Station>
+  <Station>
+    <uri>https://n08a-eu.rcs.revma.com/yukrx3dusd3vv</uri>
+    <name>FG Women DJ's</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/02s8zcv9898uv</uri>
+    <name>FG Avant-garde</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/vb3b5749n98uv</uri>
+    <name>FG Beatport</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/5wesqhfap98uv</uri>
+    <name>FG Belgium</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/zn73zqg1t7uvv</uri>
+    <name>FG Buddha Bar</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/cgvrymb6p98uv</uri>
+    <name>FG Chic</name>
+  </Station>
+  <Station>
+    <uri>https://n02a-eu.rcs.revma.com/7pww0pn0742vv</uri>
+    <name>FG Chic Berlin</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/d9ucg01d0chvv</uri>
+    <name>FG Chic and Chill</name>
+  </Station>
+  <Station>
+    <uri>http://n17a-eu.rcs.revma.com/3x5uxtcxgkhvv</uri>
+    <name>FG Chic French</name>
+  </Station>
+  <Station>
+    <uri>https://n19a-eu.rcs.revma.com/w33p2cfap98uv</uri>
+    <name>FG Chic Ibiza</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/1grpmk88n98uv</uri>
+    <name>FG Chic Lounge</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/9sw5gp3w7guvv.mp3</uri>
+    <name>FG Chic Mix</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/y4r1v13w7guvv.mp3</uri>
+    <name>FG Chic Soul</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/ffynknv9n98uv</uri>
+    <name>FG Chic Spa</name>
+  </Station>
+  <Station>
+    <uri>https://n06a-eu.rcs.revma.com/csfyhrgr60bwv</uri>
+    <name>FG Chic Vintage</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/37n8gxv9n98uv</uri>
+    <name>FG Classics</name>
+  </Station>
+  <Station>
+    <uri>https://n05a-eu.rcs.revma.com/zfad8vm4srhvv</uri>
+    <name>FG DANCE</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/kv9m762w7guvv.mp3</uri>
+    <name>FG Dancefloor</name>
+  </Station>
+  <Station>
+    <uri>https://stream.rcs.revma.com/x1csugb6wzuvv.mp3</uri>
+    <name>FG Dance Hits</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/tmbhq479n98uv</uri>
+    <name>FG Deep Dance</name>
+  </Station>
+  <Station>
+    <uri>http://n05a-eu.rcs.revma.com/423ppf862quvv.mp3</uri>
+    <name>FG Defected</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/cpkhx08pq18uv</uri>
+    <name>FG Disco Funk</name>
+  </Station>
+  <Station>
+    <uri>https://n25a-eu.rcs.revma.com/yg315gmd633vv</uri>
+    <name>FG Driving</name>
+  </Station>
+  <Station>
+    <uri>https://n25a-eu.rcs.revma.com/2ykcf6e1e2uvv</uri>
+    <name>FG Hard Tech</name>
+  </Station>
+  <Station>
+    <uri>https://n20a-eu.rcs.revma.com/mxfbr0dusd3vv</uri>
+    <name>FG Hit</name>
+  </Station>
+  <Station>
+    <uri>https://n17a-eu.rcs.revma.com/rzqck8ad633vv</uri>
+    <name>FG Home party</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/uv0x66bap98uv</uri>
+    <name>FG Mix Afro House</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/e88ff5a1e2uvv</uri>
+    <name>FG Mix Dance</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/3xvpxq50e2uvv</uri>
+    <name>FG Mix Deep</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/ky42f360e2uvv</uri>
+    <name>FG Mix Electro</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/5kucq079n98uv</uri>
+    <name>FG Mix House</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/h0n0zbh1t7uvv</uri>
+    <name>FG Mix Melodic</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/vat1rx60e2uvv</uri>
+    <name>FG Mix Techno</name>
+  </Station>
+  <Station>
+    <uri>https://n11a-eu.rcs.revma.com/v025nezpey3vv</uri>
+    <name>FG Mix Trance</name>
+  </Station>
+  <Station>
+    <uri>https://stream.rcs.revma.com/4vpbw1ad633vv</uri>
+    <name>FG New wave</name>
+  </Station>
+  <Station>
+    <uri>https://stream.rcs.revma.com/vzx3q9762quvv</uri>
+    <name>FG PhonkGaming</name>
+  </Station>
+  <Station>
+    <uri>https://n09a-eu.rcs.revma.com/hdzyzvtbxd3vv</uri>
+    <name>FG Pop electro</name>
+  </Station>
+  <Station>
+    <uri>https://n03a-eu.rcs.revma.com/xfnmkhw5b1bwv</uri>
+    <name>FG Purple Disco Machine</name>
+  </Station>
+  <Station>
+    <uri>https://n04a-eu.rcs.revma.com/kau7e6tbxd3vv</uri>
+    <name>FG Rnb Chic</name>
+  </Station>
+  <Station>
+    <uri>https://n21a-eu.rcs.revma.com/w1psqtmd342vv.mp3</uri>
+    <name>FG Remix</name>
+  </Station>
+  <Station>
+    <uri>https://n08a-eu.rcs.revma.com/ffn7zkskca3vv</uri>
+    <name>FG Running</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/vww68g69n98uv</uri>
+    <name>FG Starter By Hakimakli</name>
+  </Station>
+  <Station>
+    <uri>https://n17a-eu.rcs.revma.com/007e1v9f772vv</uri>
+    <name>FG Tech House</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/1z19ak79n98uv</uri>
+    <name>FG Techno</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/8daakscap98uv</uri>
+    <name>FG Training</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/w33p2cfap98uv</uri>
+    <name>FG Xtra</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/nwhyn2c6p98uv</uri>
+    <name>Maxximum</name>
+  </Station>
+  <Station>
+    <uri>http://stream.rcs.revma.com/maygqbdap98uv</uri>
+    <name>Maxximum 90's</name>
+  </Station>
+  <Station>
+    <uri>http://n20a-eu.rcs.revma.com/zfad8vm4srhvv</uri>
+    <name>Dance One</name>
+  </Station>
+</Stations>
