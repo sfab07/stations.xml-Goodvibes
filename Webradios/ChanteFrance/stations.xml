@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<Stations>
+  <Station>
+    <uri>http://stream1.chantefrance.com/cf-60</uri>
+    <name>Chante France 60's</name>
+  </Station>
+  <Station>
+    <uri>http://stream1.chantefrance.com/cf-70</uri>
+    <name>Chante France 70's</name>
+  </Station>
+  <Station>
+    <uri>http://stream1.chantefrance.com/cf-80</uri>
+    <name>Chante France 80's</name>
+  </Station>
+  <Station>
+    <uri>http://stream.chantefrance.com/cf-nouveautes.aac</uri>
+    <name>Chante France Nouveautés</name>
+  </Station>
+  <Station>
+    <uri>http://stream1.chantefrance.com/cf-emotion</uri>
+    <name>Chante France Émotion</name>
+  </Station>
+</Stations>
